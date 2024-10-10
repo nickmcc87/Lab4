@@ -1,14 +1,13 @@
-header{
+#id1{
     background-color: blue;
     color:white
     }
 
-P{
-    background-color: blue;
-    color: white;
+.container{
+    background-color: lightgrey;
+    color: black;
 }
 
-footer{
-    background-color: blue;
-    color: white;
+P{
+    color:red
 }
