@@ -48,3 +48,11 @@ a{
 .custom-font{
     font-family: 'Times New Roman', Times, serif;
 }
+
+#id6{
+    text-transform: uppercase;
+}
+
+.capitalize-text{
+    text-transform: capitalize;
+}
