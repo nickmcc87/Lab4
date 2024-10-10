@@ -8,6 +8,10 @@
     color: black;
 }
 
-P{
-    color:red
+#id2{
+    color: red;
+}
+
+.para{
+    background-color: green;
 }
